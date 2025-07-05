@@ -1,0 +1,39 @@
+[
+    {
+      "name": "لاته",
+      "price": "120000",
+      "category": "نوشیدنی گرم",
+      "image": "images/download.jpg"
+    },
+    {
+      "name": "آیس کافی",
+      "price": "130000",
+      "category": "نوشیدنی سرد",
+      "image": "images/icecofe.jpg"
+    },
+    {
+      "name": "کیک شکلاتی",
+      "price": "90000",
+      "category": "دسر",
+      "image": "images/kk.jpg"
+    },
+    {
+      "name": "موهیتو",
+      "price": "150000",
+      "category": "نوشیدنی سرد",
+      "image": "images/download (1).jpg"
+    },
+    {
+      "name": "شکلات",
+      "price": "138000",
+      "category": "آیس پک",
+      "image": ""
+    },
+    {
+      "name": "نوتلا",
+      "price": "150000",
+      "category": "آیس پک",
+      "image": ""
+    }
+    
+  ]

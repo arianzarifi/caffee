@@ -1,0 +1,31 @@
+@media(max-width:768px){
+    .menu-container{
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      padding: 0 10px;
+    }
+    .menu-item{
+      width: 100%;
+      font-size: 16px;
+    }
+    .menu-item img{
+      width: 100%;
+      height: auto;
+    }
+    header , footer{
+      text-align: center;
+      padding: 20px 10px;
+
+    }
+    #categories{
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      align-items: center;
+    }
+    #scrollToTopBtn{
+        bottom: 20px;
+        left: 100px;
+    }
+  }
